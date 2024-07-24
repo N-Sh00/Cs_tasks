@@ -1,5 +1,5 @@
 using System;
-
+//Logs practice
 static class LogLine
 {
     public static string Message(string logLine)
